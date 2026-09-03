@@ -11,7 +11,8 @@ Turning raw data into clear, actionable insights.
 
 - 📊 Currently building skills in **Data Analytics** and **Machine Learning**
 - 🌱 Learning to work with real-world datasets to uncover meaningful patterns
-- 📌 Featured project: **[CNN-based Bone Cancer Detection using Deep Learning](https://github.com/MalothuMallesh/bone-cancer-detection-cnn)**
+- 📊 Featured project: **[Customer Shopping Behavior Analysis](https://github.com/MalothuMallesh/customer-shopping-behavior-analysis)**
+- 🚀 Featured project: **[CNN-based Bone Cancer Detection using Deep Learning](https://github.com/MalothuMallesh/bone-cancer-detection-cnn)**
 - 💬 Open to opportunities and collaborations in data analytics
 
 <br>
